@@ -24,29 +24,3 @@ Tenho paixão por transformar regras de negócio complexas em código limpo e es
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 Projetos em Destaque
-
-📍 **[EcoViva Solutions Energy](LINK_DO_REPOSITORIO_AQUI)**
-Plataforma de análise climática e eficiência energética.
-- **Tech:** Python (Flask), API NASA (POWER), NumPy, Matplotlib.
-- **Destaque:** Integração de API externa e geração de gráficos estatísticos no backend.
-
-📍 **[Plataforma Next Step](LINK_DO_REPOSITORIO_AQUI)**
-Gestão financeira para microempreendedores (MEI).
-- **Tech:** Angular, Supabase (BaaS).
-- **Destaque:** Separação de fluxo de caixa pessoal/empresarial e autenticação segura.
-
-📍 **[EcoViva Voluntariado](LINK_DO_REPOSITORIO_AQUI)**
-Conexão entre voluntários e causas ambientais.
-- **Tech:** Java, MySQL.
-- **Destaque:** Modelagem de banco de dados relacional e lógica de backend em Java.
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrienunes07@gmail.com)
